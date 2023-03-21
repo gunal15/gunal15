@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **MERN full stack**
 
-- 👨‍💻 All of my projects are available at [https://delicate-naiad-2401d2.netlify.app/](https://delicate-naiad-2401d2.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://gunal-portfolio.netlify.app/](https://gunal-portfolio.netlify.app/)
 
 - 📫 How to reach me **gunalnandakumar@gmail.com**
 
-- 📄 Know about my experiences [https://delicate-naiad-2401d2.netlify.app/static/media/gunal.ceb580b306de920b544e.pdf](https://delicate-naiad-2401d2.netlify.app/static/media/gunal.ceb580b306de920b544e.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RgDY1a3joNj_9Va3M9tDmWZDcN_qLH_m/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
