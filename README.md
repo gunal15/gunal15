@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gunalnandakumar@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1phRQbgycoFeDeY9bWk9v6Cf8h3QBpsrM/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PvXgtmr2Cu29VwWLdCabvaU-M8LyyxN_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
